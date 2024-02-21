@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @WynterKiese
+- 👋 Hi, I’m @KyokoSpl
 - 👀 I’m interested in Linux, Gaming, riding my bike and go running in the woods
-- 🌱 I’m currently learning Python, C++, C#
-- 😄 Pronouns: They/them
+- 🌱 I’m currently learning Python, C++, C#, rust
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: It's illegal to own just one guinea pig in Switzerland. 
 
 <!---
