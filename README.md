@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyokoSpl
-- 👀 I’m interested in Linux, Gaming
+- 👀 I’m interested in Linux and Gaming
     - I am a competitive Splatoon player on mid level
     - Playing Smash bros ultimate competitive on low level
 - 🌱 I’m currently learning Python, C#, rust
