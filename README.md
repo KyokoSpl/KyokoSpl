@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KyokoSpl
-- 👀 I’m interested in Linux and Gaming
-    - I am a competitive Splatoon player on mid level
-- 🌱 I’m currently learning Python, C#, rust
+- 👀 I’m interested in Linux, Gaming and Anime
+- 🌱 I’m currently learning Python, Rust, Typescript using VueJS framework
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: It's illegal to own just one guinea pig in Switzerland. 
 
