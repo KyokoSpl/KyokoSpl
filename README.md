@@ -13,7 +13,8 @@ I’ve got a bunch of pinned projects, but my favorite is the [3d Jump 'n run in
 I’ve built over 16 public repos, but privately there are some more.
 
 If you want to learn how i do it, my books and course are available here!
+
 Fun Facts:
-    - I love monster energy and coffee
-    - Alice in Borderlands is my favourite series
-    - Hobbies: going to concerts, gaming, building things
+- I love monster energy and coffee
+- Alice in Borderlands is my favourite series
+- Hobbies: going to concerts, gaming, building things
