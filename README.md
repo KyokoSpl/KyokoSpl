@@ -1,20 +1,22 @@
+# Hey there! 👋
 
-Hey there! 👋
+I'm Kyōko, an aspiring software developer and engineer based in Germany.
+
+I am passionate about building software solutions, ranging from personal tools and creative experiments to academic projects. If an idea sparks my interest, I am dedicated to building and shipping it.
+
+### 🛠 Tech Stack
+My primary focus is **Linux**, **C++**, and **Rust**.
+*   **Rust:** Extensive experience with GUI development (using **egui** and **GTK**) and backend web services using **Actix Web**.
+*   **C++:** specific focus on game development and performance-critical applications.
+
+### Projects
+I have published over 15 public repositories. My personal favorite is a [3D Jump 'n' Run engine built in C++](https://github.com/KyokoSpl/cpp_3d_jump).
+
+If you are interested in my learning resources, my books and courses are available here!
+
 ---
-I'm Kyōko, an aspiring software developer / engineer based in Germany.
 
-I build whatever comes to mind, or whatever my friends would like to have, as well as school assignments/projects.
-
-If an idea pops into my head, chances are I’ll build it and ship it.
-
-My main tech stack is Linux, c++ and rust with several libaries for example a lot of expierience with rust GUIs using egui or gtk or the actix web framework for http servers in rust.
-I’ve got a bunch of pinned projects, but my favorite is the [3d Jump 'n run in c++](https://github.com/KyokoSpl/cpp_3d_jump).
-
-I’ve built over 16 public repos, but privately there are some more.
-
-If you want to learn how i do it, my books and course are available here!
-
-Fun Facts:
-- I love monster energy and coffee
-- Alice in Borderlands is my favourite series
-- Hobbies: going to concerts, gaming, building things
+**Fun Facts:**
+*   ☕ Fueled by Monster Energy and coffee.
+*   📺 *Alice in Borderland* is my favorite series.
+*   🎮 Hobbies: Concerts, gaming, and engineering new ideas.
