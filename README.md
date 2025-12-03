@@ -4,7 +4,7 @@ I'm Kyōko, an aspiring software developer and engineer based in Germany.
 
 I am passionate about building software solutions, ranging from personal tools and creative experiments to academic projects. If an idea sparks my interest, I am dedicated to building and shipping it.
 
-### 🛠 Tech Stack
+### Tech Stack
 My primary focus is **Linux**, **C++**, and **Rust**.
 *   **Rust:** Extensive experience with GUI development (using **egui** and **GTK**) and backend web services using **Actix Web**.
 *   **C++:** specific focus on game development and performance-critical applications.
