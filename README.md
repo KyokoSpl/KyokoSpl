@@ -12,7 +12,7 @@ My primary focus is **Linux**, **C++**, and **Rust**.
 ### Projects
 I have published over 15 public repositories. My personal favorite is a [3D Jump 'n' Run engine built in C++](https://github.com/KyokoSpl/cpp_3d_jump).
 
-If you are interested in my learning resources, my books and courses are available here!
+If you are interested contact me with my email, or on social media.
 
 ---
 
