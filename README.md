@@ -21,5 +21,5 @@ If you are interested contact me with my email, or on social media.
 
 **Fun Facts:**
 *   ☕ Fueled by Monster Energy and coffee.
-*   📺 *Alice in Borderland* is my favorite series.
+*   📺 *Sword Art Online* is my favorite series.
 *   🎮 Hobbies: Concerts, gaming, and engineering new ideas.
